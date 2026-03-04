@@ -36,19 +36,19 @@ A terminal user interface (TUI) for [Beads](https://github.com/steveyegge/beads)
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/bd-tui
-cd bd-tui
+git clone https://github.com/ppguidotti/bead-tui
+cd bead-tui
 go mod tidy
-go build -o bd-tui .
+go build -o bead-tui .
 
 # Run from inside a Beads project:
 cd your-project
-/path/to/bd-tui
+/path/to/bead-tui
 ```
 
 Or install globally:
 ```bash
-go install github.com/yourusername/bd-tui@latest
+go install github.com/ppguidotti/bead-tui@latest
 ```
 
 ## Architecture

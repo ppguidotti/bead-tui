@@ -46,11 +46,6 @@ cd your-project
 /path/to/bead-tui
 ```
 
-Or install globally:
-```bash
-go install github.com/ppguidotti/bead-tui@latest
-```
-
 ## Architecture
 
 ```

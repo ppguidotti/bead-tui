@@ -1,0 +1,40 @@
+bd-tui
+bead-tui
+go.sum
+.env
+
+
+
+# System files and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Log and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Dependencies and build directories
+node_modules/
+jspm_packages/
+dist/
+build/
+bin/
+obj/
+target/
+
+# Enviroments and keys
+.env
+.env.local
+.env.*.local
+venv/
+.venv/
